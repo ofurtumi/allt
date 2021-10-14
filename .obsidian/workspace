@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "átæk, eintæk eða gagntæk.md",
+            "file": "y=ax+b.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "átæk, eintæk eða gagntæk.md",
+                "file": "y=ax+b.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "614d90805924f9e8",
   "lastOpenFiles": [
-    "átæk, eintæk eða gagntæk.md",
-    "andhverfa falls.md",
     "y=ax+b.md",
+    "andhverfa falls.md",
+    "átæk, eintæk eða gagntæk.md",
+    "mengi falla.md",
     "markgildi.md",
     "skurðpunktur.md",
     "jafna línu gegn um punkt.md",
     "hallatala línu.md",
     "sniðill.md",
-    "snertill.md",
-    "Untitled.md"
+    "snertill.md"
   ]
 }
