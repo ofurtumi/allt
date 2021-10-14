@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7edcafe8cfeea96b",
+        "id": "614d90805924f9e8",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "átæk, eintæk eða gagntæk.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "átæk, eintæk eða gagntæk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7edcafe8cfeea96b",
+  "active": "614d90805924f9e8",
   "lastOpenFiles": [
-    "markgildi.md",
-    "andhverfa falls.md",
-    "Untitled.md",
-    "mengi falla.md",
     "átæk, eintæk eða gagntæk.md",
-    "hallatala línu.md",
-    "jafna línu gegn um punkt.md",
+    "andhverfa falls.md",
     "y=ax+b.md",
+    "markgildi.md",
     "skurðpunktur.md",
-    "formúla línu.md"
+    "jafna línu gegn um punkt.md",
+    "hallatala línu.md",
+    "sniðill.md",
+    "snertill.md",
+    "Untitled.md"
   ]
 }
