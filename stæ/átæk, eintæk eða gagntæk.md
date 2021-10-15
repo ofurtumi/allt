@@ -1,5 +1,5 @@
 föll geta verið átæk, eintæk eða gagntæk
-það segir til um hvernig þau tengjast mengjunum sínum [[mengi falla]]
+það segir til um hvernig þau tengjast [[mengi falla|mengjunum sínum]]
 
 # átæk föll
 ### e. injective

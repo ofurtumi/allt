@@ -1,6 +1,5 @@
 aðfellur eru línur á grafi sem ehv annað graf fylgir en nær aldrei að snerta, þær eru oftast lóð- eða láréttar og fylgja þá x- eða y-ás, dæmi um fall með aðfellur væri t.d. $f(x)=\frac{1}{1-x^2}$ í þessu falli eru tvær lóðréttar aðfellur $x=1,-1$ þegar x er hefur þessi gildi er maður að deila með 0 sem segir manni að maður nálgast óendanlegt
-
-
+það þarf sjaldan að teikna aðfellur en það er hægt að finna formúlur þeirra og teikna þær sem [[y=ax+b|línur]]
 
 # týpur aðfella
 aðfellur hafa mismunandi nöfn eftir stefnu
