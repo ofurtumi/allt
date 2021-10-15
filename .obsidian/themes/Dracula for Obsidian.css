@@ -10,8 +10,8 @@
     --font-size-h3:                  22px;
     --font-size-h4:                  21px;
     --font-size-h5:                  20px;
-    --font-size-h6:                  19px;
-    --font-family-editor:            Avenir, Avenir Next, sans-serif;
+    --font-size-h6:                  19px;e
+    --font-family-editor:            Avenir, Avenir Next, sans-serif
     --font-family-preview:           Avenir, Avenir Next, sans-serif;
 } 
 
@@ -565,14 +565,7 @@ color: var(--text-accent) !important;
   background-color: var(--interactive-accent-hover);
 }
 
-/***************************************/
-/*            Hide side bar            */
-/***************************************/
 
-
-
-.workspace-split.mod-left-split {margin-left: 0px;}
-.workspace-split.mod-right-split {margin-right: 0px;}
 
 /***************************************/
 /*           width of content          */

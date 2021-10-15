@@ -4,10 +4,11 @@
   "switcher",
   "graph",
   "backlink",
+  "tag-pane",
   "page-preview",
   "note-composer",
   "command-palette",
-  "markdown-importer",
+  "random-note",
   "word-count",
   "open-with-default-app",
   "file-recovery"
