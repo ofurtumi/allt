@@ -1,5 +1,5 @@
 það er hægt að setja fram margar yrðingar með stöðluðum rithætti
-það gilda basically sömu reglur fyrir þennan rithátt og [[sigma föll]]
+það gilda basically sömu reglur fyrir þennan rithátt og [[sigma föll]] enda bæði [[runur]]
 
 # ogun
 $\bigwedge\limits_{i=1}^na_i$ er jafnt og $a_1\land a_2\land a_3\land ...\land a_n$

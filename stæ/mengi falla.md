@@ -19,3 +19,4 @@ fall og andhverfa þess tengjast á háttinn $\mathbb{X}\leftrightarrow\mathbb{Y
 það er gott að vita hvernig á að sjá hvort föll séu [[átæk, eintæk eða gagntæk]]
 
 
+*ath. passa að þegar verið er að skrifa skilgreiningu mengja að nota réttan [[mengi ritháttur bil|mengjarithátt]] *

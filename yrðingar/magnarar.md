@@ -19,4 +19,4 @@ hann er táknaður með $\exists$ og er settur fram eins og almagnarinn, $\exist
 notum sama dæmi og með almagnarann, $P(x)$ er *"x er að læra python"* og óðalið er *"allir nemendur á námskeiðinu"* þá myndi $\exists x:P(x)$ þýða að *"allavega einn nemandi á námskeiðinu er að læra python"*
 
 # aðrar notkanir
-það má nota sérstakar [[jafngildisreglur magnara]] til þess að endurskrifa umsagnir með mögnurum til þess að þægilegra sé að lesa þá en ég ætla ekki að fara í það núna
+það má nota sérstakar [[magnarar de morgan]] til þess að endurskrifa umsagnir með mögnurum til þess að þægilegra sé að lesa þá en ég ætla ekki að fara í það núna
