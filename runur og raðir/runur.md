@@ -11,4 +11,4 @@ svo eru til fleiri **sérstakar** tegundir af runum
 > [[jafnmunaruna]]
 > [[strengur]]
 > [[rakningarvensl]]
-> [sigma föll]
+> [[sigma föll]]
