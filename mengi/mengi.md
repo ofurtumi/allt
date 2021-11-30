@@ -5,3 +5,5 @@
 > og fleira
 
 mengi eru svipuð [[fylki|fylkjum]] nema hvað að fylki geta verið margar víddir og hæðir á meðan mengi eru meira eins og listar
+
+hægt er að nota bæði [[samantekt]] og [[umröðun]] á sum mengi

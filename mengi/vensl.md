@@ -1,4 +1,4 @@
-**vensl** er leið til þess að sýna tengingu á milli [[mengi|mengja]] 
+**vensl** er leið til þess að sýna tengingu á milli [[mengi 1|mengja]] 
 grunnhugmyndin er að vera með einhver ákveðin mengi, gefum okkur $a=\{1,2\}$ og $b=\{x,y\}$, og reglu sem tengir sem vensl þurfa að uppfylla
 reglan er oftast táknað með $R$ 
 
