@@ -1,4 +1,4 @@
-**reiknirit evklíðs** er mun skilvirkari leið til þess að finna [[stærsti samdeilir 1|stærsta samdeili]], ég nenni ekki einu sinni að reyna að útskýra með orðum þannig skoðaðu bara dæmið aumingo
+**reiknirit evklíðs** er mun skilvirkari leið til þess að finna [[stærsti samdeilir|stærsta samdeili]], ég nenni ekki einu sinni að reyna að útskýra með orðum þannig skoðaðu bara dæmið aumingo
 
 # dæmi
 finnum $gcd(331, 492)$:
