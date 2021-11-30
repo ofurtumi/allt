@@ -10,8 +10,8 @@
     --font-size-h3:                  22px;
     --font-size-h4:                  21px;
     --font-size-h5:                  20px;
-    --font-size-h6:                  19px;e
-    --font-family-editor:            Avenir, Avenir Next, sans-serif
+    --font-size-h6:                  19px;
+    --font-family-editor:            Avenir, Avenir Next, sans-serif;
     --font-family-preview:           Avenir, Avenir Next, sans-serif;
 } 
 
@@ -248,7 +248,7 @@ strong, .cm-strong {
 
 /* emphasis in preview and editor */
 em, .cm-em {
-  color: var(--text-muted);
+  color: var(--text-title-h3);
   font-style: italic;
 }
 
@@ -388,7 +388,7 @@ pre code {
 
 /* for editor */
 .cm-quote {
-  color: var(--text-normal) !important;
+  color: var(--text-normal);
   font-style: italic;
 }
 
@@ -709,3 +709,5 @@ code{
     transition: transform 100ms ease-in-out;
     padding: 0px  !important;
   }
+
+  
