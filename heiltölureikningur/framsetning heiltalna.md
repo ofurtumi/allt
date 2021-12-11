@@ -32,5 +32,5 @@ $$
 # sextándukerfið
 ### e. hexadecimal
 svipað og áttundakerfið nema vegna þess að maður deilir með 16 getur afgangurinn verið frá 0 til 15, og í stað þess að skrifa tölur eftir 9 sem tölur eru settir bókstafir í staðinn
-[[mengi 1]] hugsanlegra afganstalna er þá $[0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F$
+[[mengi]] hugsanlegra afganstalna er þá $[0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F$
 
